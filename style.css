@@ -1,0 +1,53 @@
+body {
+  background-color: #184C4C; /* фон */
+  color: black;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  background-color: #000;
+  color: white;
+  padding: 10px 20px;
+  display: inline-block;
+  border: 5px solid brown;
+  margin-bottom: 30px;
+}
+
+.box {
+  background-color: black;       /* область между border и content */
+  border: 5px solid red;         /* border */
+  margin: 30px auto;             /* margin */
+  width: 600px;
+  padding: 20px;                 /* padding */
+}
+
+.content {
+  background-color: aquamarine;  /* content background */
+  padding: 15px;
+}
+
+p {
+  font-size: 16px;
+  text-align: left;
+}
+
+            
+
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
